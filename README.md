@@ -43,6 +43,6 @@ make clean
 
 ## Credits :
  * [Enes Ekici](https://github.com/TRKirua)
- * [Emon Barberis] (https://github.com/EmonBar)
- * [Samy Abou-al-Tout] (https://github.com/locovamos)
- * [Kylian Djermoune] ()
+ * [Emon Barberis](https://github.com/EmonBar)
+ * [Samy Abou-al-Tout](https://github.com/locovamos)
+ * [Kylian Djermoune]()
