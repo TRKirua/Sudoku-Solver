@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "VS_GCC",
+            "includePath": [
+                "${default}",
+                "C:/VSCProjects/0to9nn_apply",
+                "c:/msys64/mingw64/include/gtk-3.0",
+                "c:/msys64/mingw64/include/glib-2.0",
+                "c:/msys64/mingw64/lib/glib-2.0/include",
+                "c:/msys64/mingw64/include/pango-1.0",
+                "c:/msys64/mingw64/include/harfbuzz",
+                "c:/msys64/mingw64/include/cairo",
+                "c:/msys64/mingw64/include/gdk-pixbuf-2.0",
+                "c:/msys64/mingw64/include/atk-1.0"                
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:/msys64/mingw64/bin/gcc.exe",
+            "cStandard": "c99",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerArgs": [
+                "-g"
+            ]
+        }
+    ],
+    "version": 4
+}

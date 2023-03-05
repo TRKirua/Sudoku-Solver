@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cmath": "c"
+    },
+    "cmake.configureOnOpen": false
+}
