@@ -19,7 +19,7 @@ chmod u+x compile.sh
 \
 Then enter:
 ```bash
-./compile <number of the image you want to use>
+./compile <number of the image you want to use> #Your image must be named with this form "SudokuGrid<numberOfYourImage>"
 ```
 
 The GTK interface should open. \
