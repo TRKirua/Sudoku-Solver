@@ -45,4 +45,4 @@ make clean
  * [Enes Ekici](https://github.com/TRKirua)
  * [Emon Barberis](https://github.com/EmonBar)
  * [Samy Abou-al-Tout](https://github.com/locovamos)
- * [Kylian Djermoune]()
+ * [Kylian Djermoune](https://github.com/KylianDjermoune)
