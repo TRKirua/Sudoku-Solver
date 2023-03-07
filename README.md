@@ -33,7 +33,7 @@ Click successively on the Proceed to Extraction, Create Digit Values and Create 
 Exit the interface by pressing the Quit button.
 
 The result is available in:
-sourcecode/SudokuFinal/data/images
+`sourcecode/SudokuFinal/data/images`
 
 ## Clean project
 To clean the project :
