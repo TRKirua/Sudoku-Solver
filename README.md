@@ -1,7 +1,7 @@
 # Sudoku Solver
 Development of OCR (Optical Character Recognition) software to solve a sudoku grid.\
 \
-To download our project :
+To download our project:
 ```bash
 wget https://github.com/TRKirua/Sudoku-Solver/archive/refs/heads/main.zip -O "SudokuSolver.zip" &&
 unzip ./"SudokuSolver.zip" &&
@@ -9,7 +9,7 @@ rm ./"SudokuSolver.zip"
 ```
 
 ## Usage
-To run the project :\
+To run the project:\
 Go to: sourcecode/SudokuFinal/Sudokun \
 \
 Enter the command:
@@ -36,12 +36,12 @@ The result is available in:
 `sourcecode/SudokuFinal/data/images`
 
 ## Clean project
-To clean the project :
+To clean the project:
 ```bash
 make clean
 ```
 
-## Credits :
+## Credits
  * [Enes Ekici](https://github.com/TRKirua)
  * [Emon Barberis](https://github.com/EmonBar)
  * [Samy Abou-al-Tout](https://github.com/locovamos)
